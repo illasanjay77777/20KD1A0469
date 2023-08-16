@@ -1,0 +1,28 @@
+.trainCard {
+  width: 250px;
+  min-height: 150px;
+  height: fit-content;
+  background-color: #fff;
+  box-shadow: 0 0 3px black;
+  padding: 10px;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.trainCard div {
+  margin: 10px;
+}
+
+.trainName {
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.trainNumber {
+  font-size: 18px;
+  font-weight: 600;
+  font-family: sans-serif;
+}
